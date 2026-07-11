@@ -1,6 +1,6 @@
 const textElement = document.getElementById('dynamic-text');
 // الكلمات التي ستظهر بالتتابع
-const phrases = ['HTML', 'CSS', 'JavaScript', 'React JS'];
+const phrases = ['HTML', 'CSS', 'JavaScript'];
 
 let phraseIndex = 0;
 let charIndex = 0;
